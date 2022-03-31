@@ -1,0 +1,18 @@
+{
+"IPAddress":"DESKTOP-NMQJ2B2",
+"UserName":"sa",
+"Password":"sql2019",
+"DBName":"ACE",
+"Input_Table":"ContentDownloaded_28032022",
+"Output_Table":"Person_Email_Extraction_1",
+"Status":"1",
+"Start":"637",
+"End":"637",
+"CleansingLogic":"true",
+"DiacriticsClean":"true",
+"Charset":"UTF-8",
+"TimeoutForProcessingInMinutes": 10,
+"TimeRelayInSeconds": 30,
+"deadlockpriority": "10",
+"NER_NLP_Module":"true"
+}
