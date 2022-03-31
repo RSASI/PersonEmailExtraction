@@ -1,0 +1,230 @@
+Brigadier General
+Air Vice Marshal
+First Lieutient
+The Hon Justice
+Crown Princess
+Flying Officer
+Air Commodore
+First Officer
+Group Captain
+Brig General
+Commissioner
+Crown Prince
+Her Highness
+His Highness
+His Holiness
+Mademoiselle
+Rear Admiral
+Tan Sri Dato
+The Hon Miss
+The Very Rev
+Vice Admiral
+Air Marshal
+Congressman
+Her Majesty
+His Majesty
+Revd Father
+Than Puying
+The Hon Mrs
+The Hon Sir
+Viscountess
+Ambassador
+Commandant
+Conseiller
+Councillor
+Datuk Seri
+Embajadora
+Group Capt
+High Chief
+Rear Admrl
+Rev Mother
+Revd Canon
+The Hon Dr
+The Hon Mr
+The Hon Ms
+Brigadier
+Commander
+Commodore
+Deaconess
+Embajador
+Flt Lieut
+Khun Ying
+Lieut Cdr
+Lieut Col
+Lieut Gen
+Monsignor
+Princesse
+Professor
+Rev Canon
+Admiraal
+Air Cdre
+Alderman
+Brig Gen
+Cardinal
+Comtessa
+Contessa
+Corporal
+Countess
+Dipl Ing
+Exma Sra
+Fraulein
+Generaal
+Governor
+Grp Capt
+Jonkheer
+Monsieur
+Princess
+Prof Sir
+Puan Sri
+Reverend
+Sergeant
+Toh Puan
+Viscount
+Wng Cmdr
+Admiral
+Barones
+Brother
+Captain
+Colonel
+Dott sa
+Eur Ing
+Exmo Sr
+General
+Justice
+Kolonel
+Lt Cmdr
+Maj Gen
+Mevrouw
+Prinses
+Prof Dr
+Senator
+Sheikha
+Sqn Ldr
+Tan Sri
+The Hon
+1st Lt
+Alhaji
+Col Dr
+Consul
+Deacon
+Doctor
+Dr Ing
+Father
+Flt Lt
+Gravin
+H E Dr
+Lt Col
+Madame
+Master
+Pastor
+Prince
+Rev Dr
+Rt Hon
+Sheikh
+Sig na
+Sig ra
+Sister
+Sultan
+Tengku
+Wg Cdr
+A V M
+Baron
+Brgdr
+Canon
+Chief
+Coach
+Comte
+Conte
+Count
+Datin
+Datuk
+Elder
+Encik
+Graaf
+H R H
+Hajah
+Hajim
+Judge
+Lieut
+Major
+Rabbi
+Teuku
+Thiru
+Treas
+Atty
+Brig
+Capt
+Cmdr
+Dame
+Dato
+Dean
+Dott
+Frau
+Haji
+Herr
+Lady
+Lcda
+Lord
+Miss
+Mlle
+Msgr
+MSgt
+Mstr
+Pres
+Prof
+Puan
+Sr D
+Srta
+Supt
+Adm
+Amb
+Cdr
+Cik
+Col
+Cpl
+Dhr
+Dra
+Drs
+Eng
+F O
+Fru
+Gen
+Gov
+H H
+H M
+Hon
+Hra
+Ing
+Lic
+M L
+M R
+Mag
+Maj
+Mme
+Mrs
+Nti
+Ofc
+Pvt
+Rep
+Rev
+Rva
+Sec
+Sen
+Sgt
+Sig
+Sir
+Smt
+Sra
+Sri
+Tmt
+Tun
+Br
+Dr
+En
+Fr
+Hr
+Ir
+Lt
+Mr
+Ms
+Sr
